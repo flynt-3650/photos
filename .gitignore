@@ -1,0 +1,8 @@
+node_modules/
+dupekiller-report/
+tmp-selftest/
+tmp-py-smoke/
+.quarantine/
+.dupekiller/
+.venv/
+__pycache__/
